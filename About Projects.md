@@ -6,7 +6,9 @@ Also i try to demonstrate the tools that are neccessary in the data field which 
 general,Python, PowerBI and so on .
 Here are some of my social medias if you were interested in contacting me:
 gmail -->  vekton2019@gmail.com
+***
 linkedin --> Nejhadeh Yarelahi
+***
 instagram --> n.yarela_hi
-
+***
 thanks for visiting my github page :-)
